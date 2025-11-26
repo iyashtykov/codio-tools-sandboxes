@@ -1,0 +1,37 @@
+{
+	"type": "test",
+	"taskId": "test-3854580937",
+	"source": {
+		"name": "terminate",
+		"showName": true,
+		"instructions": "",
+		"command": "bash windows/terminate.sh",
+		"timeoutSeconds": 200,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Advanced Code Test"
+				}
+			],
+			"files": [],
+			"opened": [
+				{
+					"type": "sandbox",
+					"panelNumber": 0,
+					"content": "bash windows/sync.sh"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": "",
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 1,
+		"arePartialPointsAllowed": false,
+		"useMaximumScore": false
+	}
+}

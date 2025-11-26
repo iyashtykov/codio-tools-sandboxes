@@ -1,0 +1,37 @@
+{
+	"type": "test",
+	"taskId": "test-2117221925",
+	"source": {
+		"name": "exec-async",
+		"showName": true,
+		"instructions": "",
+		"command": "bash windows/exec-async.sh",
+		"timeoutSeconds": 200,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Advanced Code Test"
+				}
+			],
+			"files": [],
+			"opened": [
+				{
+					"type": "sandbox",
+					"panelNumber": 0,
+					"content": "bash windows/sync.sh"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": "",
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 1,
+		"arePartialPointsAllowed": false,
+		"useMaximumScore": false
+	}
+}

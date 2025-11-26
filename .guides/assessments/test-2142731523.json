@@ -1,0 +1,37 @@
+{
+	"type": "test",
+	"taskId": "test-2142731523",
+	"source": {
+		"name": "start",
+		"showName": true,
+		"instructions": "",
+		"command": "bash ubuntu/start.sh",
+		"timeoutSeconds": 200,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Advanced Code Test"
+				}
+			],
+			"files": [],
+			"opened": [
+				{
+					"type": "sandbox",
+					"panelNumber": 0,
+					"content": "bash ubuntu/sync.sh"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": "",
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 1,
+		"arePartialPointsAllowed": false,
+		"useMaximumScore": false
+	}
+}

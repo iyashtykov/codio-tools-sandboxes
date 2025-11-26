@@ -1,0 +1,37 @@
+{
+	"type": "test",
+	"taskId": "test-3604686315",
+	"source": {
+		"name": "get-host-name",
+		"showName": true,
+		"instructions": "",
+		"command": "bash ubuntu/get-host-name.sh",
+		"timeoutSeconds": 200,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Advanced Code Test"
+				}
+			],
+			"files": [],
+			"opened": [
+				{
+					"type": "sandbox",
+					"panelNumber": 0,
+					"content": "bash ubuntu/sync.sh"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": "",
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 1,
+		"arePartialPointsAllowed": false,
+		"useMaximumScore": false
+	}
+}

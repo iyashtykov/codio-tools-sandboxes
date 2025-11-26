@@ -1,0 +1,24 @@
+{
+	"id": "297cb532-a945-0172-cf38-64a148a66875",
+	"title": "windows vm sandbox",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "#sandbox: bash windows/sync.sh",
+			"panel": 0,
+			"action": "open",
+			"trackId": "tr_d3dc24712844ab62fd9c9d9a0b0889d2",
+			"sandboxId": "aws_ec2_windows"
+		}
+	],
+	"layout": "2-panels-tree",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

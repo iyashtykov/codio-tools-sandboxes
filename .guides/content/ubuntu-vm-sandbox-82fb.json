@@ -1,0 +1,24 @@
+{
+	"id": "82fbfabb-2ce8-a91a-7ff9-50cda4c8b8b8",
+	"title": "ubuntu vm sandbox",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "#sandbox: bash ubuntu/sync.sh",
+			"panel": 0,
+			"action": "open",
+			"trackId": "tr_d3dc24712844ab62fd9c9d9a0b0889d2",
+			"sandboxId": "aws_ec2_ubuntu"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels-tree"
+}
