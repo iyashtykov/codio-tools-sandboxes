@@ -1,0 +1,1 @@
+codio-tools --sandbox $(< "windows/WINDOWS_SANDBOX.txt") status

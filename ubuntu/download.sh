@@ -1,0 +1,1 @@
+codio-tools --sandbox $(< "ubuntu/UBUNTU_SANDBOX.txt") download "/home/ubuntu/Desktop/folder" "/home/codio/workspace/folder"

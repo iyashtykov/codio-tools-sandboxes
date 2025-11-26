@@ -1,0 +1,3 @@
+codio-tools --sandbox $(< "windows/WINDOWS_SANDBOX.txt") upload "/home/codio/workspace/folder" "C:\Users\Administrator\Desktop\folder"
+codio-tools --sandbox $(< "windows/WINDOWS_SANDBOX.txt") upload "/home/codio/workspace/file.js" "C:\Users\Administrator\Desktop\file.js"
+codio-tools --sandbox $(< "windows/WINDOWS_SANDBOX.txt") upload "/home/codio/workspace/windows/simple.exe" "C:\Users\Administrator\Desktop\simple.exe"

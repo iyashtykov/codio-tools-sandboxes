@@ -1,0 +1,2 @@
+codio-tools --sandbox $(< "ubuntu/UBUNTU_SANDBOX.txt") exec-async /usr/bin/google-chrome-stable https://codio.com
+codio-tools --sandbox $(< "ubuntu/UBUNTU_SANDBOX.txt") exec-async /home/ubuntu/Desktop/simple

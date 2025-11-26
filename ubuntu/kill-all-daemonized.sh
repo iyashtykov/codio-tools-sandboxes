@@ -1,0 +1,1 @@
+codio-tools --sandbox $(< "ubuntu/UBUNTU_SANDBOX.txt") kill-all-daemonized

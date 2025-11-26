@@ -1,0 +1,1 @@
+codio-tools --sandbox $(< "windows/WINDOWS_SANDBOX.txt") download "C:\Users\Administrator\Desktop\folder" "/home/codio/workspace/folder"

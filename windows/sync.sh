@@ -1,0 +1,2 @@
+codio-tools --sandbox $(< "windows/WINDOWS_SANDBOX.txt") sync "/home/codio/workspace/folder" "C:\Users\Administrator\Desktop\folder"
+codio-tools --sandbox $(< "windows/WINDOWS_SANDBOX.txt") sync "/home/codio/workspace/file.js" "C:\Users\Administrator\Desktop\file.js"
